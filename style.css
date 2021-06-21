@@ -266,7 +266,7 @@ a {
   text-align: left;
   color: #9099a0;
   font-weight: 300;
-  padding-right: 10px;
+  padding-right: 25px;
 }
 @media (max-width: 450px) {
   .section-wrapper {
@@ -480,7 +480,7 @@ a {
   padding: 10px;
   width: 100%;
   margin-right: 20px;
-  height: 275px;
+  height: 100%;
 }
 
 
