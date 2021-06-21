@@ -229,32 +229,6 @@ a {
   margin-bottom: 20px;
   font-weight: 400;
 }
-.experience .company-wrapper {
-  width: 30%;
-  float: left;
-  text-align: left;
-  padding-right: 5%;
-  margin-bottom: 60px;
-}
-@media (max-width: 450px) {
-  .experience .company-wrapper {
-    width: 100%;
-    margin-bottom: 20px;
-  }
-}
-.experience .job-wrapper {
-  width: 70%;
-  float: left;
-  text-align: left;
-  padding-right: 5%;
-  margin-bottom: 60px;
-}
-@media (max-width: 450px) {
-  .experience .job-wrapper {
-    width: 100%;
-    margin-bottom: 40px;
-  }
-}
 
 .section-padding {
   padding: 60px 60px 40px 40px;
@@ -272,7 +246,6 @@ a {
 }
 .section-wrapper2 {
   margin-top: 25px;
-  margin-right: 100px;
   width:100%;
   float:left;
 }
@@ -293,7 +266,6 @@ a {
   text-align: left;
   color: #9099a0;
   font-weight: 300;
-  padding-right: 40px;
 }
 @media (max-width: 450px) {
   .section-wrapper {
