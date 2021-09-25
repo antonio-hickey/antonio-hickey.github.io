@@ -426,7 +426,7 @@ a {
     width: 0%;
   }
   to {
-    width: 40%;
+    width: 70%;
   }
 }
 @keyframes skill_6 {
@@ -434,40 +434,24 @@ a {
     width: 0%;
   }
   to {
-    width: 40%;
-  }
-}
-@-webkit-keyframes skill_7 {
-  from {
-    width: 0%;
-  }
-  to {
-    width: 40%;
-  }
-}
-@keyframes skill_7 {
-  from {
-    width: 0%;
-  }
-  to {
-    width: 40%;
+    width: 70%;
   }
 }
 
+
 .row {
   margin:8px -16px;
-  width: 100%;
+  display: flex;
+  justify-content: center;
 }
 
 .row,
 .row > .column {
   padding: 8px;
-  width: 100%;
 }
 
 .column {
-  float: left;
-  width: 25%;
+  width: 35%;
 }
 
 .row:after {
@@ -482,7 +466,7 @@ a {
   padding: 10px;
   width: 100%;
   margin-right: 20px;
-  height: 35%;
+  height: 105%;
 }
 
 
