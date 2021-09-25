@@ -320,7 +320,7 @@ a {
           animation: skill_3 0.6s ease;
 }
 .section-wrapper .skill-percentage:nth-child(4)::before {
-  width: 80%;
+  width: 40%;
   -webkit-animation: skill_4 0.6s ease;
           animation: skill_4 0.6s ease;
 }
@@ -335,7 +335,7 @@ a {
           animation: skill_6 0.6s ease;
 }
 .section-wrapper .skill-percentage:nth-child(7)::before {
-  width: 80%;
+  width: 40%;
   -webkit-animation: skill_6 0.6s ease;
           animation: skill_6 0.6s ease;
 }
