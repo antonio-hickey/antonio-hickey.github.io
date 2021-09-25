@@ -394,7 +394,7 @@ a {
     width: 0%;
   }
   to {
-    width: 80%;
+    width: 40%;
   }
 }
 @keyframes skill_4 {
@@ -402,7 +402,7 @@ a {
     width: 0%;
   }
   to {
-    width: 80%;
+    width: 40%;
   }
 }
 @-webkit-keyframes skill_5 {
@@ -442,7 +442,7 @@ a {
     width: 0%;
   }
   to {
-    width: 80%;
+    width: 40%;
   }
 }
 @keyframes skill_7 {
@@ -450,7 +450,7 @@ a {
     width: 0%;
   }
   to {
-    width: 80%;
+    width: 40%;
   }
 }
 
